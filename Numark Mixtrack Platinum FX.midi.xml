@@ -2,7 +2,7 @@
 <MixxxControllerPreset mixxxVersion="2.1.0+" schemaVersion="1">
     <info>
         <name>Numark Mixtrack Platinum FX</name>
-        <author>Matthew Nicholson & Ending</author>
+        <author>Matthew Nicholson &amp; Ending</author>
         <description>Numark Mixtrack Platinum FX mapping with support for LCD screens and 4 deck playback.</description>
         <forums>https://mixxx.discourse.group/t/numark-mixtrack-platinum-fx-mapping/19985/4</forums>
         <wiki>https://www.mixxx.org/wiki/doku.php/numark_mixtrack_platinum</wiki>
